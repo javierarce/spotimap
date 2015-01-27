@@ -12,9 +12,9 @@ The songs on this map were manually extracted from the Wikipedia article
 This map doesn't pretend to be an exhaustive collection of songs about cities, but if you want me to add a particular song do this:
 
 1. Check that the song exists in Spotify.
-2. Check that the city that the song is referring to appears in the list of stats below.
+2. Check that the city that the song is referring to appears in the [list of stats](#stats) below.
 3. Add the song to the article [List of songs about cities](http://en.wikipedia.org/wiki/List_of_songs_about_cities) (or the corresponding subarticle.)
-4. Open an issue in this repository with the name of the song, the city, and the link the Wikipedia page.
+4. [Add an issue](https://github.com/javierarce/spotimap/issues) in this repository with the name of the song, the city, and the link the Wikipedia page.
 
 ## Stats
 
