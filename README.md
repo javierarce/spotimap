@@ -21,11 +21,35 @@ The songs on this map were manually extracted from the Wikipedia article
 This map doesn't pretend to be an exhaustive collection of songs about cities, but if you want me to add a particular song, please do this:
 
 1. Check that the song exists in [Spotify](https://www.spotify.com).
-2. Check that the city that the song is referring to appears in the [list of stats](#stats) below.
+2. Check that city doesn't appear in the [list of pending cities](#pending-cities) below.
 3. Add the song to the article [List of songs about cities](http://en.wikipedia.org/wiki/List_of_songs_about_cities) (or the corresponding subarticle.)
 4. [Create an issue](https://github.com/javierarce/spotimap/issues) in this repository with the name of the song, the city, and the change in the Wikipedia page.
 
 I know it's a tedious process, but you'll be helping the Wikipedia, this humble project and future generations of music lovers at the same time.
+
+## Pending cities
+
+This is a list of cities I still need to import:
+
+* Atlanta
+* Birmingham
+* Birmingham, Alabama
+* Boston
+* Chicago
+* Detroit
+* Jerusalem
+* Liverpool
+* Los Angeles
+* Manchester
+* Manila
+* Melbourne
+* Montreal
+* Nashville
+* New Orleans
+* Rio de Janeiro
+* Sydney
+* Toronto
+* Vancouver
 
 ## Stats
 
