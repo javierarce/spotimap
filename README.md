@@ -12,163 +12,163 @@ Have you been alone in <a href="http://javierarce.com/spotimap?city=Kyoto">Kyoto
 
 City | Number of songs
 -----|----------------
-London|2744
-New York City|2707
-Paris|1028
-San Francisco|212
-Berlin|154
-Tokyo|67
-Amsterdam|41
-Moscow|33
-Tulsa|30
-Cleveland|20
-Memphis|19
-Kansas City|17
-Tampico|15
-Brisbane|14
-Warsaw|14
-Dallas|14
-Las Vegas|13
-Brighton|13
-San Antonio|13
-Adelaide|12
-Houston|12
-São Paulo|12
-Istanbul|12
-Albuquerque|11
-Philadelphia|10
-Baltimore|9
-Hong Kong|7
-Pittsburgh|7
-Kingston|6
-Oslo|6
-Saigon|6
-Montgomery|5
-Alice Springs|5
-Marseille|5
-Rotterdam|5
-Tijuana|5
-Recife|5
-Cape Town|5
-Soweto|5
-Den Haag (The Hague)|4
-Laredo|4
-Bruxelles/Brussel (Brussels)|4
-Omaha|4
-Austin|4
-El Paso|4
-Santa Fe|4
-Amarillo|4
-Johannesburg|4
-Perth|4
-Little Rock|3
-Lisbon|3
-Wichita|3
-Coffs Harbour|3
-Mount Isa|3
-Savannah|3
-Port Elizabeth|3
-Toulouse|3
-Madrid|3
-Barcelona|3
-Denver|3
-Nantes|3
-Tucson|3
-Galveston|3
-Hamburg|3
-Phoenix|3
-Kraków|3
-Calgary|3
-Bangkok|3
-Broken Hill|2
-Indianapolis|2
-Salford|2
-Allentown|2
-Newcastle upon Tyne|2
-Kalgoorlie|2
-Olympia|2
-Rome|2
-Strasbourg|2
-Nijmegen|2
-Gothenburg|2
-Port Lincoln|2
-St. Louis|2
-Seoul|2
-Canberra|2
-Reno|2
-Darwin|2
-Newcastle|2
-Poznań|2
-Köln|2
-Pretoria|2
-Winnipeg|2
-Townsville|2
-Fort Worth|2
-Durban|2
-Hobart|2
-Beaufort West|2
-Kyoto|1
-Bordeaux|1
-Coimbra|1
-De Aar|1
-Gary|1
-Ankara|1
-Liège|1
-Chiang Mai|1
-Knysna|1
-Juneau|1
-San Juan|1
-Tsitsikamma|1
-Vaduz|1
-Abilene|1
-Rostock|1
-Seville|1
-Milan|1
-Bochum|1
-Bossier City|1
-Niekerkshoop|1
-Saskatoon|1
-Seattle|1
-Fukuoka|1
-Gold Coast|1
-Dresden|1
-Oudtshoorn|1
-Matjiesfontein|1
-Rijeka|1
-Uitenhage|1
-Flagstaff|1
-Wrocław|1
-Montpellier|1
-Yokohama|1
-Marina del Rey|1
-San Jose|1
-Kathmandu|1
-Ukraine|1
-Ballarat|1
-Patensie|1
-Salvador|1
-Göttingen|1
-Avignon|1
-Akron|1
-Porto|1
-Garden Grove|1
-Newport|1
-Mexico City|1
-Anchorage|1
-Utrecht|1
-Gladstone|1
-Honolulu|1
-San Pedro de Macorís|1
-Margate|1
-St. Paul|1
-Surat Thani|1
-Shanghai|1
-Bilbao|1
-Brest|1
-Cadiz|1
-Buenos Aires|1
-Vesoul|1
-Rouen|1
-Knokke|1
-Chennai|1
-Porto Alegre|1
+London,United Kingdom|2744
+New York City,United States|2707
+Paris,France|1028
+San Francisco,United States|212
+Berlin,Germany|154
+Tokyo,Japan|67
+Amsterdam,Netherlands|41
+Moscow,Russia|33
+Tulsa,United States|30
+Cleveland,United States|20
+Memphis,United States|19
+Kansas City,United States|17
+Tampico,Mexico|15
+Warsaw,Poland|14
+Brisbane,Australia|14
+Dallas,United States|14
+Brighton,United Kingdom|13
+San Antonio,United States|13
+Las Vegas,United States|13
+São Paulo,Brazil|12
+Adelaide,Australia|12
+Istanbul,Turkey|12
+Houston,United States|12
+Albuquerque,United States|11
+Philadelphia,United States|10
+Baltimore,United States|9
+Hong Kong,Hong Kong|7
+Pittsburgh,United States|7
+Oslo,Norway|6
+Saigon,Vietnam|6
+Kingston,Jamaica|6
+Recife,Brazil|5
+Marseille,France|5
+Montgomery,United States|5
+Cape Town,South Africa|5
+Rotterdam,Netherlands|5
+Tijuana,Mexico|5
+Alice Springs,Australia|5
+Soweto,South Africa|5
+Omaha,United States|4
+Den Haag (The Hague),Netherlands|4
+El Paso,United States|4
+Johannesburg,South Africa|4
+Amarillo,United States|4
+Austin,United States|4
+Perth,Australia|4
+Bruxelles/Brussel (Brussels),Belgium|4
+Laredo,United States|4
+Santa Fe,United States|4
+Coffs Harbour,Australia|3
+Nantes,France|3
+Denver,United States|3
+Little Rock,United States|3
+Port Elizabeth,South Africa|3
+Barcelona,Spain|3
+Calgary,Canada|3
+Toulouse,France|3
+Phoenix,United States|3
+Galveston,United States|3
+Madrid,Spain|3
+Wichita,United States|3
+Mount Isa,Australia|3
+Tucson,United States|3
+Bangkok,Thailand|3
+Hamburg,Germany|3
+Savannah,United States|3
+Lisbon,Portugal|3
+Kraków,Poland|3
+Broken Hill,Australia|2
+Gothenburg,Sweden|2
+Seoul,Korea|2
+Allentown,United States|2
+Rome,Italy|2
+Newcastle upon Tyne,United Kingdom|2
+Darwin,Australia|2
+Newcastle,Australia|2
+St. Louis,United States|2
+Beaufort West,South Africa|2
+Port Lincoln,Australia|2
+Kalgoorlie,Australia|2
+Strasbourg,France|2
+Salford,United Kingdom|2
+Poznań,Poland|2
+Townsville,Australia|2
+Durban,South Africa|2
+Winnipeg,Canada|2
+Nijmegen,Netherlands|2
+Olympia,United States|2
+Canberra,Australia|2
+Pretoria,South Africa|2
+Indianapolis,United States|2
+Fort Worth,United States|2
+Reno,United States|2
+Hobart,Australia|2
+Köln,Germany|2
+Anchorage,United States|1
+Bochum,Germany|1
+Flagstaff,United States|1
+Bilbao,Spain|1
+Kyoto,Japan|1
+Oudtshoorn,South Africa|1
+Vesoul,France|1
+Shanghai,China|1
+Gold Coast,Australia|1
+Wrocław,Poland|1
+St. Paul,United States|1
+Yokohama,Japan|1
+Saskatoon,Canada|1
+Honolulu,United States|1
+Fukuoka,Japan|1
+Ankara,Turkey|1
+Bordeaux,France|1
+De Aar,South Africa|1
+Gladstone,Australia|1
+San Juan,Puerto Rico|1
+Garden Grove,United States|1
+Knysna,South Africa|1
+Cadiz,Spain|1
+Gary,United States|1
+Liège,Belgium|1
+Chiang Mai,Thailand|1
+Tsitsikamma,South Africa|1
+Salvador,Brazil|1
+Patensie,South Africa|1
+Chennai,India|1
+Marina del Rey,United States|1
+Ukraine,|1
+Abilene,United States|1
+San Jose,United States|1
+Uitenhage,South Africa|1
+Knokke,Belgium|1
+Utrecht,Netherlands|1
+Surat Thani,Thailand|1
+Seattle,United States|1
+Buenos Aires,Argentina|1
+Montpellier,France|1
+Göttingen,Germany|1
+Rostock,Germany|1
+Coimbra,Portugal|1
+Juneau,United States|1
+Bossier City,United States|1
+Kathmandu,Nepal|1
+Rijeka,Croatia|1
+Margate,South Africa|1
+Rouen,France|1
+Milan,Italy|1
+Matjiesfontein,South Africa|1
+Newport,United Kingdom|1
+Porto,Portugal|1
+San Pedro de Macorís,Dominican Republic|1
+Niekerkshoop,South Africa|1
+Mexico City,Mexico|1
+Dresden,Germany|1
+Akron,United States|1
+Avignon,France|1
+Porto Alegre,Brazil|1
+Vaduz,Liechtenstein|1
+Brest,France|1
+Seville,Spain|1
+Ballarat,Australia|1
