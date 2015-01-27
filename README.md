@@ -19,6 +19,7 @@ City | Number of songs
 [Berlin, Germany](http://javierarce.com/spotimap?city=Berlin, Germany)|154
 [Stockholm, Sweden](http://javierarce.com/spotimap?city=Stockholm, Sweden)|77
 [Tokyo, Japan](http://javierarce.com/spotimap?city=Tokyo, Japan)|67
+[Seattle, United States](http://javierarce.com/spotimap?city=Seattle, United States)|56
 [Amsterdam, Netherlands](http://javierarce.com/spotimap?city=Amsterdam, Netherlands)|41
 [Moscow, Russia](http://javierarce.com/spotimap?city=Moscow, Russia)|33
 [Tulsa, United States](http://javierarce.com/spotimap?city=Tulsa, United States)|30
