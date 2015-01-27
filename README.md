@@ -8,6 +8,8 @@ Have you been alone in <a href="http://javierarce.com/spotimap?city=Kyoto">Kyoto
 
 [List of songs about cities](http://en.wikipedia.org/wiki/List_of_songs_about_cities).
 
+## Did you spot a problem? 
+
 ## Stats
 
 City | Number of songs
@@ -23,6 +25,7 @@ City | Number of songs
 [Amsterdam, Netherlands](http://javierarce.com/spotimap?city=Amsterdam, Netherlands)|41
 [Moscow, Russia](http://javierarce.com/spotimap?city=Moscow, Russia)|33
 [Tulsa, United States](http://javierarce.com/spotimap?city=Tulsa, United States)|30
+[Miami, United States](http://javierarce.com/spotimap?city=Miami, United States)|22
 [Cleveland, United States](http://javierarce.com/spotimap?city=Cleveland, United States)|20
 [Memphis, United States](http://javierarce.com/spotimap?city=Memphis, United States)|19
 [Kansas City, United States](http://javierarce.com/spotimap?city=Kansas City, United States)|17
