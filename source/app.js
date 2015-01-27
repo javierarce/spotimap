@@ -336,6 +336,15 @@ Player = Backbone.View.extend({
     }
   },
 
+  goToCity: function(city) {
+
+    if (!city) return;
+
+    this.$el.find(".PlayerSearch input[type='text']").val(city);
+    this.$el.find(".PlayerSearch input[type='submit']").click();
+
+  },
+
   renderSearch: function() {
 
     if (this.vis) {
@@ -542,6 +551,7 @@ App = Backbone.View.extend({
     this.player.vis = vis;
     this.player.map = this.map;
     this.player.renderSearch();
+    this.player.goToCity(this._getURLParam("city"));
 
     cartoDBLayer.on('featureClick',  this.player._onCityClick, this.player);
 
