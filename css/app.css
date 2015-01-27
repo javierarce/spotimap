@@ -106,6 +106,10 @@ strong {
 .Player.show-about .PlayerFooter .inner {
   left: -335px;
 }
+.Player .PlayerFooter a {
+  font-size: 11px;
+  color: #fff;
+}
 .Player .PlayerFooter .info {
   float:left;
   text-align: center;
@@ -115,12 +119,8 @@ strong {
   width: 320px;
   float:left;
 }
-.Player .PlayerFooter .stats a {
+.Player .PlayerFooter .stats .close {
   float:right;
-}
-.Player .PlayerFooter a {
-  color: #fff;
-  font-size: 11px;
 }
 .Player .PlayerFooter a:hover {
   color: #ccc;

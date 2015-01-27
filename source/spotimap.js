@@ -320,7 +320,7 @@ Player = Backbone.View.extend({
     "click .js-close": "_onClickAboutClose"
   },
 
-  template: _.template('<div class="PlayerHeader"><strong>Spotimap</strong> a map of songs about cities<a href="#back" class="back js-back">back</a><div class="spinner"></div></div><div class="SongPlayer"><iframe width="100%" height="80px" frameborder="0" allowtransparency="true"></iframe></div><div class="Pane"><ul class="SongList"></ul></div><div class="PlayerSearch"></div><div class="PlayerFooter"><div class="inner"><div class="info">Source: <a href="http://en.wikipedia.org/wiki/List_of_songs_about_cities">Wikipedia</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#about" class="js-about">About this project</a>&nbsp;&nbsp;|&nbsp;&nbsp;Created by <a href="http://twitter.com/javier">Javier Arce</a></div><div class="stats"><span></span> <a href="#close" class="close js-close">Close</a></div></div></div>'),
+  template: _.template('<div class="PlayerHeader"><strong>Spotimap</strong> a map of songs about cities<a href="#back" class="back js-back">back</a><div class="spinner"></div></div><div class="SongPlayer"><iframe width="100%" height="80px" frameborder="0" allowtransparency="true"></iframe></div><div class="Pane"><ul class="SongList"></ul></div><div class="PlayerSearch"></div><div class="PlayerFooter"><div class="inner"><div class="info">Source: <a href="http://en.wikipedia.org/wiki/List_of_songs_about_cities">Wikipedia</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#about" class="js-about">About this project</a>&nbsp;&nbsp;|&nbsp;&nbsp;Created by <a href="http://twitter.com/javier">Javier Arce</a></div><div class="stats"><span></span> <a href="#close" class="close js-close">close</a></div></div></div>'),
 
   initialize: function(options) {
 
@@ -356,7 +356,7 @@ Player = Backbone.View.extend({
     var onSuccessQuery = function(data) {
 
       if (data && data.rows) {
-        self.model.set("stats", "Currently showing <strong>" + data.rows.length + "</strong> songs from <strong>212 cities</strong>.");
+        self.model.set("stats", "<strong>" + data.rows.length + "</strong> songs, <strong>212 cities</strong> | <a href='https://github.com/javierarce/spotimap'>Source code</a>");
       }
 
     };
@@ -642,6 +642,7 @@ Player = Backbone.View.extend({
   },
 
   _onClickSong: function(song) {
+
     this._play(song);
 
     this.songs.each(function(s) { 
