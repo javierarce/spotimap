@@ -17,6 +17,7 @@ City | Number of songs
 [Paris, France](http://javierarce.com/spotimap?city=Paris, France)|1028
 [San Francisco, United States](http://javierarce.com/spotimap?city=San Francisco, United States)|212
 [Berlin, Germany](http://javierarce.com/spotimap?city=Berlin, Germany)|154
+[Stockholm, Sweden](http://javierarce.com/spotimap?city=Stockholm, Sweden)|77
 [Tokyo, Japan](http://javierarce.com/spotimap?city=Tokyo, Japan)|67
 [Amsterdam, Netherlands](http://javierarce.com/spotimap?city=Amsterdam, Netherlands)|41
 [Moscow, Russia](http://javierarce.com/spotimap?city=Moscow, Russia)|33
