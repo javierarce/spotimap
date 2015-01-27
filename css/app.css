@@ -1,0 +1,325 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+html, body, #map {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  color: #333;
+  font-family: 'Lato', sans-serif;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+::-webkit-input-placeholder {
+  color: #666;
+  opacity: .4;
+}
+:-moz-placeholder {
+  color: #666;
+  opacity: .4;
+}
+::-moz-placeholder {
+  color: #666;
+  opacity: .4;
+}
+:-ms-input-placeholder {
+  color: #666;
+  opacity: .4;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.Player {
+  position:absolute;
+  bottom: 50px;
+  left: 20px;
+  background: #121314;
+  border-radius: 2px;
+  width: 350px;
+}
+.Player .PlayerFooter {
+  font-size: 11px;
+  color: #666;
+  text-align: center;
+  clear:both;
+  overflow:hidden;
+  padding: 10px 15px 15px 15px;
+}
+.Player .PlayerFooter .inner {
+  width: 800px;
+  position:relative; 
+  left: 0;
+  -webkit-transition: left 300ms ease-out;
+  -moz-transition: left 300ms ease-out;
+  -o-transition: left 300ms ease-out;
+  transition: left 300ms ease-out;
+}
+.Player.show-about .PlayerFooter .inner {
+  left: -335px;
+}
+.Player .PlayerFooter .info {
+  float:left;
+  text-align: center;
+}
+.Player .PlayerFooter .stats {
+  margin: 0 0 0 30px;
+  width: 320px;
+  float:left;
+}
+.Player .PlayerFooter .stats a {
+  float:right;
+}
+.Player .PlayerFooter a {
+  color: #fff;
+  font-size: 11px;
+}
+.Player .PlayerFooter a:hover {
+  color: #ccc;
+}
+.Player .PlayerSearch {
+  position:relative;
+}
+.Player .PlayerSearch .cartodb-searchbox {
+  float: none;
+  margin: 0;
+  width: 100%;
+  height: 45px;
+  border:none;
+  background:none;
+  border-radius: 0;
+  border-top: 1px solid #393b40;
+  border-bottom: 1px solid #393b40;
+}
+.Player .PlayerSearch .cartodb-searchbox span.loader {
+  top: 10px;
+  left: 14px;
+}
+.Player .PlayerSearch .cartodb-searchbox form input[type="submit"] {
+  top: 15px;
+  left: 17px;
+}
+.Player .PlayerSearch .cartodb-searchbox form input[type="text"] {
+  padding: 0 0 2px 0;
+  left: 40px;
+  top: 12px;
+  width: 275px;
+  color: #ccc;
+  font-weight:bold;
+}
+.Player .PlayerSearch .cartodb-searchbox form span.loader {
+  background: url(../img/spinner.gif) no-repeat center center;
+  height: 18px;
+  width: 18px;
+}
+.Player .PlayerHeader {
+  padding: 15px;
+  color: #666;
+  border-top: 1px solid #393b40;
+  background: #222226;
+  border-radius: 2px 2px 0 0;
+}
+.Player .PlayerHeader strong {
+  color: #fff;
+  color: #6ac41c;
+}
+.Player .PlayerHeader .back {
+  display: none;
+  top: 2px;
+  position:relative;
+  float:right;
+  font-size: 13px;
+  color: #fff;
+}
+.Player .PlayerHeader .spinner {
+  display: none;
+  position:relative;
+  top: -7px;
+  float:right;
+  width: 16px;
+  height: 30px;
+  background: url(../img/loading-bars.svg) no-repeat;
+}
+.Player.is-zoomed .PlayerHeader {
+  border-bottom: 1px solid #222326;
+}
+.Player.is-zoomed .PlayerHeader .back {
+  display: block;
+}
+.Player.is-loading.is-zoomed .PlayerHeader .back {
+  display:none;
+}
+.Player.is-loading .PlayerHeader .spinner {
+  display:block;
+}
+.Player .SongList {
+  border-top: 1px solid #393b40;
+  border-bottom: 1px solid #222326;
+}
+.Player .SongList li:hover {
+  background: #222326;
+}
+.Player .SongList li {
+  position:relative;
+  line-height: 120%;
+  border-bottom: 1px solid #222326;
+}
+.Player .SongList li.has-error .error {
+  display: block;
+}
+.Player .SongList li.has-error .title,
+.Player .SongList li.has-error .title a,
+.Player .SongList li.has-error .title strong,
+.Player .SongList li.has-error.is-selected .title,
+.Player .SongList li.has-error.is-selected .title strong,
+.Player .SongList li.has-error.is-selected .title a {
+  color: red;
+}
+.Player .SongList li.is-selected {
+  color: #6ac41c;
+  background: #222326;
+}
+.Player .SongList li.is-selected .info {
+  /*display: block;*/
+}
+.Player .SongList li.is-selected .title {
+  color: #335E0D;
+}
+.Player .SongList li.is-selected .title strong {
+  color: #6ac41c;
+}
+.Player .SongList li:last-child {
+  border:none;
+}
+.Player .SongList li a {
+  display: block;
+  color: #333;
+  text-decoration:none;
+}
+.Player .SongList li .title {
+  padding: 10px 15px;
+  width: 289px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.Player .SongList li .info {
+  display: none;
+  border-top: 1px solid #393b40;
+  padding: 10px;
+}
+.Player .SongList li a strong {
+  color: #fff;
+}
+.Player .SongList li .error {
+  display: none;
+  position: absolute;
+  right: 10px;
+  top: 15px;
+  width: 10px;
+  height: 10px;
+  background:red;
+  border-radius:20px;
+}
+
+.Player.show-loader .Pane .LoadMore {
+  display: block;
+}
+.Player .Pane .LoadMore {
+  display: none;
+}
+.Player .Pane .LoadMore:hover {
+  background: #222326;
+}
+.Player .Pane .LoadMore a {
+  display: block;
+  padding: 10px 0;
+  color: #fff;
+  text-align: center;
+}
+
+.SongPlayer {
+  display:none;
+}
+.Player .Pane {
+  display: none;
+  width: 100%;
+  max-height: 200px;
+  min-height: 100px;
+  overflow: auto;
+}
+
+.AboutWindow {
+  display: none;
+  opacity: 0;
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  margin-left: -200px;
+  background: #222226;
+  height: 200px;
+}
+
+.AboutWindow .close {
+  display: block;
+  position:absolute;
+  top: 10px;
+  right: 10px;
+  color: #6ac41c;
+  text-decoration: none;
+}
+.AboutWindow .inner {
+  padding: 20px;
+  line-height: 120%;
+  color: #fff;
+}
