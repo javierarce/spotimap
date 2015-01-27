@@ -133,7 +133,7 @@ Player = Backbone.View.extend({
 
     var self = this;
 
-    var query = "SELECT COUNT(songs.cartodb_id) FROM songs, cities WHERE songs.city = cities.city AND available IS NOT false GROUP by songs.cartodb_id ORDER by songs.song ASC";
+    var query = "SELECT COUNT(songs.cartodb_id) FROM spotimap_songs songs, spotimap_cities cities WHERE songs.city = cities.city AND available IS NOT false GROUP by songs.cartodb_id ORDER by songs.song ASC";
 
     var onError = function(errors) {
       // self._stopLoading();
@@ -393,7 +393,7 @@ Player = Backbone.View.extend({
 
     this.currentCity = city;
 
-    var query = "SELECT songs.cartodb_id, songs.song, songs.city, songs.author, cities.country, cities.the_geom_webmercator FROM songs, cities WHERE songs.city = cities.city AND cities.city = '" + city + "' AND available IS NOT false ORDER by songs.song ASC LIMIT 100 OFFSET " + this.offsets[city];
+    var query = "SELECT songs.cartodb_id, songs.song, songs.city, songs.author, cities.country, cities.the_geom_webmercator FROM spotimap_songs songs, spotimap_cities cities WHERE songs.city = cities.city AND cities.city = '" + city + "' AND available IS NOT false ORDER by songs.song ASC LIMIT 100 OFFSET " + this.offsets[city];
 
     var onError = function(errors) {
       // self._stopLoading();

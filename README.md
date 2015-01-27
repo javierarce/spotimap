@@ -4,6 +4,11 @@ Have you been alone in <a href="http://javierarce.com/spotimap?city=Kyoto">Kyoto
 
 [javierarce.com/spotimap](http://javierarce.com/spotimap)
 
+## Datasets
+
+* [Song list](https://arce.cartodb.com/tables/spotimap_songs/public)
+* [City list](https://arce.cartodb.com/tables/spotimap_cities/public)
+
 ## Source
 
 The songs on this map were manually extracted from the Wikipedia article
