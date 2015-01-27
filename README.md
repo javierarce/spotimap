@@ -4,7 +4,7 @@ Have you been alone in <a href="http://javierarce.com/spotimap?city=Kyoto">Kyoto
 
 [javierarce.com/spotimap](http://javierarce.com/spotimap)
 
-![thumb](https://raw.githubusercontent.com/javierarce/spotimap/img/spotimap_small.png)
+![thumb](https://raw.githubusercontent.com/javierarce/spotimap/master/img/spotimap_small.png)
 
 ## Datasets
 
