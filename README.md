@@ -6,7 +6,15 @@ Have you been alone in <a href="http://javierarce.com/spotimap?city=Kyoto">Kyoto
 
 ## Source
 
+The songs on this map were manually extracted from the Wikipedia article
 [List of songs about cities](http://en.wikipedia.org/wiki/List_of_songs_about_cities).
+
+This map doesn't pretend to be an exhaustive collection of songs about cities, but if you want me to add a particular song do this:
+
+1. Check that the song exists in Spotify.
+2. Check that the city that the song is referring to appears in the list of stats below.
+3. Add the song to the article [List of songs about cities](http://en.wikipedia.org/wiki/List_of_songs_about_cities) (or the corresponding subarticle.)
+4. Open an issue in this repository with the name of the song, the city, and the link the Wikipedia page.
 
 ## Stats
 
@@ -175,3 +183,7 @@ City | Number of songs
 [Brest, France](http://javierarce.com/spotimap?city=Brest, France)|1
 [Seville, Spain](http://javierarce.com/spotimap?city=Seville, Spain)|1
 [Ballarat, Australia](http://javierarce.com/spotimap?city=Ballarat, Australia)|1
+
+## Thanks
+
+Hat tip to [Analía](https://twitter.com/lalalalia) for posting the link to the Wikipedia article.
