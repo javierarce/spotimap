@@ -219,7 +219,7 @@ LoadMore = Backbone.View.extend({
     "click .js-load-more": "_onClick"
   },
 
-  template: _.template('<a href="#" class="js-load-more">Load more</div></a>'),
+  template: _.template('<a href="#" class="js-load-more">Load more songs</div></a>'),
 
   initialize: function(options) {
 
