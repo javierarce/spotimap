@@ -49,11 +49,11 @@ City | Number of songs
 [Albuquerque, United States](http://javierarce.com/spotimap?city=Albuquerque, United States)|11
 [Philadelphia, United States](http://javierarce.com/spotimap?city=Philadelphia, United States)|10
 [Baltimore, United States](http://javierarce.com/spotimap?city=Baltimore, United States)|9
-[Hong Kong, Hong Kong](http://javierarce.com/spotimap?city=Hong Kong, Hong Kong)|7
 [Pittsburgh, United States](http://javierarce.com/spotimap?city=Pittsburgh, United States)|7
 [Oslo, Norway](http://javierarce.com/spotimap?city=Oslo, Norway)|6
 [Saigon, Vietnam](http://javierarce.com/spotimap?city=Saigon, Vietnam)|6
 [Kingston, Jamaica](http://javierarce.com/spotimap?city=Kingston, Jamaica)|6
+[Hong Kong, Hong Kong](http://javierarce.com/spotimap?city=Hong Kong, Hong Kong)|5
 [Recife, Brazil](http://javierarce.com/spotimap?city=Recife, Brazil)|5
 [Marseille, France](http://javierarce.com/spotimap?city=Marseille, France)|5
 [Montgomery, United States](http://javierarce.com/spotimap?city=Montgomery, United States)|5
