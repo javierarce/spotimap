@@ -8,8 +8,6 @@ Have you been alone in <a href="http://javierarce.com/spotimap?city=Kyoto">Kyoto
 
 [List of songs about cities](http://en.wikipedia.org/wiki/List_of_songs_about_cities).
 
-## Did you spot a problem? 
-
 ## Stats
 
 City | Number of songs
