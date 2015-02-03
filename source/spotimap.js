@@ -524,7 +524,7 @@ Player = Backbone.View.extend({
 
     if (this.model.get("api_key")) {
 
-      var query = "UPDATE songs SET available = false WHERE cartodb_id = " + song.get("cartodb_id");
+      var query = "UPDATE spotimap_songs SET available = false WHERE cartodb_id = " + song.get("cartodb_id");
 
       new cartodb.SQL({ user: this.options.username, api_key: this.model.get("api_key") })
       .execute(query)
@@ -581,6 +581,10 @@ Player = Backbone.View.extend({
     this.map.panTo({ lat: data.latitude, lon: data.longitude });
 
     this.zoomIn();
+
+    if (history) {
+      history.pushState({}, "city", "http://" + window.location.hostname + window.location.pathname + "?city=" + data.city);
+    }
 
     setTimeout(function() {
       self.map.setZoom(10);
