@@ -31,25 +31,25 @@ I know it's a tedious process, but you'll be helping the Wikipedia, this humble 
 
 This is a list of cities I still need to import:
 
-* Atlanta
-* Birmingham
-* Birmingham, Alabama
-* Boston
-* Chicago
-* Detroit
-* Jerusalem
-* Liverpool
-* Los Angeles
-* Manchester
-* Manila
-* Melbourne
-* Montreal
-* Nashville
-* New Orleans
-* Rio de Janeiro
-* Sydney
-* Toronto
-* Vancouver
+* [Atlanta](http://en.wikipedia.org/wiki/List_of_songs_about_Atlanta)
+* [Birmingham](http://en.wikipedia.org/wiki/List_of_songs_about_Birmingham)
+* [Birmingham, Alabama](http://en.wikipedia.org/wiki/List_of_songs_about_Birmingham,_Alabama)
+* [Boston](http://en.wikipedia.org/wiki/List_of_songs_about_Boston)
+* [Chicago](http://en.wikipedia.org/wiki/List_of_songs_about_Chicago)
+* [Detroit](http://en.wikipedia.org/wiki/List_of_songs_about_Detroit)
+* [Jerusalem](http://en.wikipedia.org/wiki/List_of_songs_about_Jerusalem)
+* [Liverpool](http://en.wikipedia.org/wiki/List_of_songs_about_Liverpool)
+* [Los Angeles](http://en.wikipedia.org/wiki/List_of_songs_about_Los_Angeles)
+* [Manchester](http://en.wikipedia.org/wiki/List_of_songs_about_Manchester)
+* [Manila](http://en.wikipedia.org/wiki/List_of_songs_about_Manila)
+* [Melbourne](http://en.wikipedia.org/wiki/List_of_songs_about_Melbourne)
+* [Montreal](http://en.wikipedia.org/wiki/List_of_songs_about_Montreal)
+* [Nashville](http://en.wikipedia.org/wiki/List_of_songs_about_Nashville)
+* [New Orleans](http://en.wikipedia.org/wiki/List_of_songs_about_New_Orleans)
+* [Rio de Janeiro](http://en.wikipedia.org/wiki/List_of_songs_about_Rio_de_Janeiro)
+* [Sydney](http://en.wikipedia.org/wiki/List_of_songs_about_Sydney)
+* [Toronto](http://en.wikipedia.org/wiki/List_of_songs_about_Toronto)
+* [Vancouver](http://en.wikipedia.org/wiki/List_of_songs_about_Vancouver)
 
 ## Stats
 
