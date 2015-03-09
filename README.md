@@ -18,6 +18,8 @@ The map uses the data from this two tables:
 The songs on this map were manually extracted from the Wikipedia article
 [List of songs about cities](http://en.wikipedia.org/wiki/List_of_songs_about_cities) using a combination of infinite patience and regular expressions.
 
+## Contributing 
+
 This map doesn't pretend to be an exhaustive collection of songs about cities, but if you want me to add a particular song, please do this:
 
 1. Check that the song exists in [Spotify](https://www.spotify.com).
