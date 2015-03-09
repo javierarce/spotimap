@@ -87,6 +87,7 @@ City | Number of songs
 [Philadelphia, United States](http://javierarce.com/spotimap?city=Philadelphia, United States)|10
 [Baltimore, United States](http://javierarce.com/spotimap?city=Baltimore, United States)|9
 [Pittsburgh, United States](http://javierarce.com/spotimap?city=Pittsburgh, United States)|7
+[Washington D.C., United States](http://javierarce.com/spotimap?city=Washington, United States)|7
 [Oslo, Norway](http://javierarce.com/spotimap?city=Oslo, Norway)|6
 [Saigon, Vietnam](http://javierarce.com/spotimap?city=Saigon, Vietnam)|6
 [Kingston, Jamaica](http://javierarce.com/spotimap?city=Kingston, Jamaica)|6
@@ -155,6 +156,7 @@ City | Number of songs
 [Reno, United States](http://javierarce.com/spotimap?city=Reno, United States)|2
 [Hobart, Australia](http://javierarce.com/spotimap?city=Hobart, Australia)|2
 [Köln, Germany](http://javierarce.com/spotimap?city=Köln, Germany)|2
+[Genoa, Italy](http://javierarce.com/spotimap?city=Genoa)|2
 [Anchorage, United States](http://javierarce.com/spotimap?city=Anchorage, United States)|1
 [Bochum, Germany](http://javierarce.com/spotimap?city=Bochum, Germany)|1
 [Flagstaff, United States](http://javierarce.com/spotimap?city=Flagstaff, United States)|1
