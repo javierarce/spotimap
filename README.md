@@ -144,6 +144,7 @@ City | Number of songs
 [Strasbourg, France](http://javierarce.com/spotimap?city=Strasbourg, France)|2
 [Salford, United Kingdom](http://javierarce.com/spotimap?city=Salford, United Kingdom)|2
 [Poznań, Poland](http://javierarce.com/spotimap?city=Poznań, Poland)|2
+[Düsseldorf, Germany](http://javierarce.com/spotimap?city=Düsseldorf, Germany)|2
 [Townsville, Australia](http://javierarce.com/spotimap?city=Townsville, Australia)|2
 [Durban, South Africa](http://javierarce.com/spotimap?city=Durban, South Africa)|2
 [Winnipeg, Canada](http://javierarce.com/spotimap?city=Winnipeg, Canada)|2
